@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+
+* {
+    font-family: 'Pacifico', cursive;
+}
+
+:root {
+    --font-color: #1917b9; 
+}
+
+
+
+body {
+    background-color: rgb(192, 33, 33);
+    border: 15px dotted white;
+    margin: 20px 7px;
+    padding: 10%
+}
+
+h1{
+
+}
+
+.class {
+
+}
+
+
+
+#id {
+
+}
+
+/* child */
+header > div {
+
+}
+
+/* All tag in side */
+header div {
+
+}
+
+/* pseudo slelector */
+nav > div {
+
+}
+
